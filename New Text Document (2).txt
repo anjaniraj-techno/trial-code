@@ -1,0 +1,22 @@
+Certificate related issue 
+
+ 
+
+SSL error 
+
+Desired capabilities handle = dersired capabilities.chrome();
+
+handle.
+
+we create instance for browser to accept ssl in this . 
+
+firefox.exe -p   to create profile for firefox ...
+
+
+assignment -- 
+
+1 value 
+
+2nd last values of tables 
+
+3rd all column value

@@ -1,0 +1,8 @@
+.//*[@id='sbtLog']//following::input[12]
+
+
+.//*[@id='skip']/input[4]
+
+
+.//input[@type="submit"]//preceding::input[4]
+

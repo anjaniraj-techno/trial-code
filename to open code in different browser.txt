@@ -1,0 +1,18 @@
+compatibilty testing 
+
+chrome and IE   , NOW FOR MOZILLA AS WELL WE NEED 
+
+
+SELENIUM 3 AND ABOVE WE NEED .EXE TO BE RUN
+
+
+pop up 
+
+1. windows 
+2. web based
+
+window handle  parent class 
+
+window handles in child class
+
+

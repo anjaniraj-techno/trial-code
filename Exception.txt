@@ -1,0 +1,24 @@
+Exception 
+
+Types of exception
+
+how to handLE exception  - try catch 
+
+thorws  --- to be written at signature 
+
+throw -- intentionally we want exception   --- at a time only one exception in this 
+
+finally to be written that this should work i.e it should run this code atleast .
+
+
+note :
+
+exception
+ runtime compile time
+
+
+
+
+
+
+

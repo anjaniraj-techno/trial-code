@@ -1,0 +1,81 @@
+runtime.getruntime.exec("pathof exe")
+
+//tagname[@attributname='attributevalue']
+
+
+or can be used to go for finding  elements, 
+
+
+
+input []
+
+
+xpath -- XML PATH
+
+
+
+//*[starts-with(@id,'u')]
+
+
+//input[ends-with(@id,'6')]
+
+
+//input[ends-with(@id,'9']
+
+
+//*[contains(text ()
+
+//a[text(),'Create a page']
+
+.//a[text(),'Create a page']
+
+.//href [@text(),'Create a page']
+
+
+//a[contains (text() ,'why do i need to provide my date of birth ?'] and id="birthday-help"
+
+xpath//following -siblings::=a[1]
+
+preceding 
+
+
+
+.//*[@id='u_0_7']//preceding::input
+
+.//*[@title="Women"]//preceding::input
+
+.//*[@title="Women"]//preceding::input[2]
+
+.//*[@title="Women"]//following::a
+
+
+css 
+a[input ][name=][]
+#name   id 
+. classname 
+
+^Satrtswith
+
+$ end with
+
+
+//[type='password']
+
+[@title="Women"]
+
+//*[@data-name='gender_wrapper']/span[2]/input
+
+
+>  for next search
+
+span[data-name='gender_wrapper']>:nth-child(1)>:nth-child(1)
+
+dynamic xpath
+
+
+
+
+
+
+
+
